@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[918],{2918:e=>{e.exports=JSON.parse('{"categorie":"Categorie","kg":"kg","greutate":"Greutate","reset":"Resetare","dela":"de la","lei":"lei"}')}}]);

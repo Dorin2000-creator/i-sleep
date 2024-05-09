@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[624],{8624:e=>{e.exports=JSON.parse('{"title":"Restabilirea parolei","name":"Nume","email":"Email","newpass":"Parola nou\u0103","ques":"R\u0103spunsul la \xeentrebarea de securitate","res":"Reseteaz\u0103 parola"}')}}]);

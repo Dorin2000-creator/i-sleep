@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[970],{8970:e=>{e.exports=JSON.parse('{"top":"Informa\u021bie despre utilizator","update":"Actualizare","pass":"Introdu parola"}')}}]);

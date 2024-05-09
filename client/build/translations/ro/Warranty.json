@@ -1,0 +1,44 @@
+{
+    
+      "header": "Garanție",
+      "introduction": "Suntem mândri să vă oferim o gamă largă de produse de calitate la i-sleep, iar garanția noastră reflectă încrederea noastră în aceste articole de mobilier, saltele și decorațiuni. Iată detalii despre condițiile noastre de garanție și drepturile pe care le aveți ca și client.",
+      "customerRights": {
+        "header": "Drepturile Clientului:",
+        "returnOrReplace": "Returnare sau Înlocuire: În cazul în care descoperiți orice problemă acoperită de garanție, aveți dreptul de a solicita returnarea sau înlocuirea produsului.",
+        "supportService": "Serviciu de Asistență: Echipa noastră de asistență pentru clienți este disponibilă pentru a vă ajuta cu orice întrebări sau preocupări legate de garanție. Suntem aici pentru a vă asigura că aveți o experiență plăcută cu produsele noastre."
+      },
+      "commitment": "La i-sleep, ne străduim să vă oferim nu doar saltele de calitate, ci și o experiență de cumpărare fără griji. Garanția noastră este o expresie a încrederii noastre în fiecare saltea și în relația pe care o construim cu fiecare client.",
+      "importantNotice": "IMPORTANT! Dacă în timpul funcționării salteaua are un defect din fabrică sub forma unui „scârțâit” - salteaua va fi înlocuită GRATUIT cu una identică fără defecte.",
+      "manufacturerGuarantee": {
+        "header": "Producătorul garantează:",
+        "lifeSpan": "Durata medie de viață a saltelelor vândute în magazinul nostru online este de 5 ani.",
+        "compliance": "Producătorul garantează că produsul va îndeplini caracteristicile declarate dacă se respectă instrucțiunile de utilizare.",
+        "warrantyService": "Garantăm că în perioada de garanție vom elimina pe cheltuiala noastră orice defect al produsului dacă se constată un defect de fabricație.",
+        "replacement": "Dacă nu este posibilă remedierea defectelor bunurilor, acestea vor fi înlocuite în termen de 14 zile lucrătoare de la data la care cumpărătorul ne-a informat."
+      },
+      "exclusions": {
+        "header": "Garanția saltelei nu se aplică dacă:",
+        "liquidSpill": "S-a vărsat lichid pe saltea.",
+        "sharpObjects": "Deformarea a avut loc la obiectele ascuțite.",
+        "moldAndOdor": "Depozitarea saltelei în locuri umede care provoacă mucegai și miros.",
+        "improperSurface": "Îngrijirea saltelei pe suprafețe nepotrivite (suprafața nu este uniformă).",
+        "incompatibleFrame": "Rama pe care este amplasată salteaua nu se potrivește. (Pentru a verifica dacă salteaua se potrivește, utilizați următoarea formulă: lățimea lamelelor X. Y- Distanța lamelelor / Y ≤ X)",
+        "exceededWeight": "Greutatea maximă admisă a fost depășită, în funcție de modelul saltelei.",
+        "notification": "În aceste cazuri, vânzătorul va notifica cumpărătorul prin e-mail, iar costul reparației va fi suportat de cumpărător. Prețul este stabilit în conformitate cu lucrările efectuate, inclusiv transportul său TUR și RETUR este asigurat de cumpărător.",
+        "address": "Adresa unde va fi livrată salteaua: str. Calea Moșilor 4, Chișinău, Moldova."
+      },
+      "mattressCare": {
+        "header": "Condiții de utilizare a saltelelor:",
+        "packagingRemoval": "Saltelele vândute de i-sleep.md sunt ambalate și confecționate din materiale moderne care asigură ușurința transportului și igiena maximă. NU folosiți obiecte ascuțite atunci când scoateți salteaua din ambalaj, puteți tăia salteaua și astfel anula garanția saltelei.",
+        "frameRecommendation": "Ambalajul trebuie îndepărtat în termen de 14 zile de la primirea saltelei. Se recomandă utilizarea unui cadru din lemn ca suport pentru saltea, a cărui parte inferioară asigură ventilația saltelei (ar trebui să existe un spațiu între lamelele care alcătuiesc partea inferioară a cadrului).",
+        "indoorUsage": "Se recomandă utilizarea acestui produs în interior, în condiții normale de umiditate și temperatură. Vă recomandăm să ventilați camera săptămânal și să lăsați salteaua în aer liber. Acest lucru previne dezvoltarea mucegaiului și acumularea unei concentrații ridicate de umiditate în saltea.",
+        "positionChange": "În primele 6 luni, schimbați lunar poziția saltelei (din cap până în picioare). De asemenea, vă recomandăm să plasați în mod regulat o saltea în picioare pentru stabilitatea formei.",
+        "ventilation": "Evitați așezarea saltelei pe un suport care nu permite ventilația. Acest lucru va face ca umezeala să se acumuleze în partea de jos și mucegai.",
+        "moistEnvironments": "Produsul nu este destinat utilizării într-un mediu umed. Evitați scurgerile de lichid și umezeala în saltea.",
+        "cleaningWarning": "Nu recomandăm curățarea și călcarea umedă.",
+        "protectiveCover": "Pentru a prelungi durata de viață a saltelei, vă recomandăm să achiziționați o husă de protecție. Husa este ușor de întreținut și se poate spăla la mașină automat."
+      },
+      "iSleepStatement": "i-sleep.md declară sub responsabilitatea sa că produsele vândute respectă documentația executivă a producătorilor, fapt confirmat de certificatele de calitate emise de producători."
+    }
+  
+  

@@ -1,0 +1,22 @@
+{
+    "title": "Coș",
+    "salut": "Salut",
+    "Mărimeaselectată": "Mărimea selectată:",
+    "pret": "Prețul:",
+    "lei": "lei",
+    "elimina": "Elimină",
+    "delivery": "Metodă de livrare",
+    "curier": "Curier i-sleep",
+    "produse": "Recomandat pentru produsele agabaritice",
+    "ridicare": "Ridicare personală",
+    "ridicare2": "Ridicați marfa de la depozitul nostru",
+    "diclaimer": "* Anumite modele de saltele pot fi temporar indisponibile în stoc și realizarea lor poate dura până la 14 zile lucrătoare.",
+    "total": "Total",
+    "adaug": "Adaugă / Actualizează Adresa",
+    "processing": "Procesare...",
+    "place_order": "Plasează Comanda",
+    "cart_count": "Ai {{count}} produse în coș",
+    "cart_empty": "Coșul este gol",
+    "login_prompt": ", Loghează-te pentru a face comanda",
+    "currency": "lei"
+}

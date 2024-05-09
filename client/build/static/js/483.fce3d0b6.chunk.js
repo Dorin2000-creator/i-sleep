@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[483],{4483:e=>{e.exports=JSON.parse('{"conn":"Conecta\u021bi-v\u0103 la","email":"Introduceti email-ul","pass":"Introduce parola","forg":"Ai uitat parola?","conect":"Conecta\u021bi-v\u0103"}')}}]);

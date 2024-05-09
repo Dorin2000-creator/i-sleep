@@ -1,0 +1,10 @@
+{
+    "reg":"Înregistrare",
+    "name":"Nume",
+    "email":"Email",
+    "pass":"Parolă",
+    "phone":"Telefon",
+    "add":"Adresă",
+    "qeus":"Cuvînt secret",
+    "inreg":"Înregistrare"
+}

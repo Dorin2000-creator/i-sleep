@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[927],{4927:e=>{e.exports=JSON.parse('{"reg":"\xcenregistrare","name":"Nume","email":"Email","pass":"Parol\u0103","phone":"Telefon","add":"Adres\u0103","qeus":"Cuv\xeent secret","inreg":"\xcenregistrare"}')}}]);
